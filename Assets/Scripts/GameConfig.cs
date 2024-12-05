@@ -13,7 +13,7 @@ public class GameConfig : ScriptableObject
    // public Labyrinth[] labyrinths;
    // public Labyrinth[] fanLabyrinths;
 
-    public Ball ball;
+    public Ball[] ball;
     public Ball ballBig;
     public Ball ballMid;
 
