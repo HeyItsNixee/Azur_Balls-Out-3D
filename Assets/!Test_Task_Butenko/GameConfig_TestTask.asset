@@ -21,6 +21,8 @@ MonoBehaviour:
   - {fileID: 4803738439568453723, guid: e493d540d8d8e4f4696f774b65716648, type: 3}
   - {fileID: 4803738439568453723, guid: 8df9a6fd3043bd440a7ae616cc35ea8e, type: 3}
   - {fileID: 4803738439568453723, guid: ffd978edee0cb4f4ab203574d442df4b, type: 3}
+  waterBall: {fileID: 4803738439568453723, guid: 027d744470bc8174999b8f8b9665d6e2,
+    type: 3}
   ballBig: {fileID: 4803738439568453723, guid: ef4c898583f4aca49be6543f189d1693, type: 3}
   ballMid: {fileID: 4803738439568453723, guid: 1c3d0242b6598384db2632dbcf90efb1, type: 3}
   wavesCount: 3
